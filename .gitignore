@@ -1,0 +1,15 @@
+# Environment variables (contains API keys and credentials)
+.env
+
+# Virtual environment
+venv/
+
+# IDE settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Cache files
+alert_cache.json

@@ -1,0 +1,13 @@
+status,sport_key,event_time,matchup,market_key,point,bet_A_name,odds_A_decimal,book_A,stake_A,bet_B_name,odds_B_decimal,book_B,stake_B,S_sum,ROI_pct,payout,profit
+ARB,americanfootball_nfl,2025-09-28T20:06:00Z,Indianapolis Colts @ Los Angeles Rams,alternate_spreads,,Indianapolis Colts,5.75,BetMGM,249.35,Los Angeles Rams,1.91,Fanatics,750.65,0.697473,43.3747,1433.75,433.75
+ARB,baseball_mlb,2025-09-23T01:41:00Z,Milwaukee Brewers @ San Diego Padres,spreads,,Milwaukee Brewers,2.8,FanDuel,495.5,San Diego Padres,2.75,Fanatics,504.5,0.720779,38.7387,1387.39,387.39
+ARB,americanfootball_nfl,2025-09-26T00:16:00Z,Seattle Seahawks @ Arizona Cardinals,spreads_q1,,Arizona Cardinals,2.4,BetMGM,510.2,Seattle Seahawks,2.5,FanDuel,489.8,0.816667,22.449,1224.49,224.49
+ARB,americanfootball_nfl,2025-09-28T20:26:00Z,Chicago Bears @ Las Vegas Raiders,spreads_q1,,Chicago Bears,2.36,DraftKings,508.33,Las Vegas Raiders,2.44,FanDuel,491.67,0.833565,19.9667,1199.67,199.67
+ARB,americanfootball_nfl,2025-09-28T17:01:00Z,Washington Commanders @ Atlanta Falcons,spreads_q1,,Atlanta Falcons,2.5,FanDuel,479.17,Washington Commanders,2.3,DraftKings,520.83,0.834783,19.7917,1197.92,197.92
+ARB,americanfootball_nfl,2025-09-26T00:16:00Z,Seattle Seahawks @ Arizona Cardinals,spreads_q4,,Arizona Cardinals,2.2,DraftKings,521.74,Seattle Seahawks,2.4,FanDuel,478.26,0.871212,14.7826,1147.83,147.83
+ARB,baseball_mlb,2025-09-22T23:16:00Z,Washington Nationals @ Atlanta Braves,spreads_1st_5_innings,,Atlanta Braves,2.2,FanDuel,494.25,Washington Nationals,2.15,BetMGM,505.75,0.919662,8.7356,1087.36,87.36
+ARB,americanfootball_nfl,2025-09-28T20:26:00Z,Chicago Bears @ Las Vegas Raiders,spreads_h1,,Chicago Bears,2.02,DraftKings,515.59,Las Vegas Raiders,2.15,FanDuel,484.41,0.960166,4.1487,1041.49,41.49
+ARB,americanfootball_nfl,2025-09-23T00:15:00Z,Detroit Lions @ Baltimore Ravens,spreads_q4,,Baltimore Ravens,2.12,FanDuel,479.12,Detroit Lions,1.95,DraftKings,520.88,0.984519,1.5725,1015.72,15.72
+ARB,americanfootball_nfl,2025-09-26T00:16:00Z,Seattle Seahawks @ Arizona Cardinals,spreads_h1,,Arizona Cardinals,2.2,FanDuel,456.79,Seattle Seahawks,1.85,DraftKings,543.21,0.995086,0.4938,1004.94,4.94
+ARB,americanfootball_nfl,2025-09-28T20:06:00Z,Indianapolis Colts @ Los Angeles Rams,first_team_to_score,,Indianapolis Colts,2.1,BetMGM,476.31,Los Angeles Rams,1.91,FanDuel,523.69,0.999751,0.0249,1000.25,0.25
+ARB,americanfootball_nfl,2025-09-28T17:01:00Z,Washington Commanders @ Atlanta Falcons,spreads_h1,,Atlanta Falcons,1.87,DraftKings,534.83,Washington Commanders,2.15,FanDuel,465.17,0.999876,0.0124,1000.12,0.12
